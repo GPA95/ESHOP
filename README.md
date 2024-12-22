@@ -18,6 +18,8 @@ E-SHOP is a Grade 12 Python-based e-commerce project that includes product listi
     * MySQL.Connector: Used to connect the Python application to the SQL database, in order to execute SQL queries
 
 # Project Report
+https://github.com/GPA95/ESHOP/blob/main/IP%20PROJECT%202022-23.pdf
+
 Our project report is also available for reference to further details, such as:
 * SQL tables of the database
 * Python program code

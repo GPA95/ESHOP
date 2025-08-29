@@ -17,6 +17,9 @@ E-SHOP is a Grade 12 Python-based e-commerce project that includes product listi
     * Matplotlib: To visualize the yearly sales of the online departmental store using a bar graph
     * MySQL.Connector: Used to connect the Python application to the SQL database, in order to execute SQL queries
 
+# Application Flow Diagram
+<img width="6212" height="2644" alt="ESHOP" src="https://github.com/user-attachments/assets/f60f266f-beb0-42c9-92fd-1b359a83f3cc" />
+
 # Project Report
 https://github.com/GPA95/ESHOP/blob/main/IP%20PROJECT%202022-23.pdf
 

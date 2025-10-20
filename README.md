@@ -19,7 +19,7 @@ E-SHOP is a Grade 12 Python-based e-commerce project that includes product listi
 
 # Application Flow Diagram
 <img width="6212" height="2644" alt="ESHOP" src="https://github.com/user-attachments/assets/f60f266f-beb0-42c9-92fd-1b359a83f3cc" />
-> ©️🖼️ Diagram Credits: [gitdiagram.com | https://github.com/ahmedkhaleel2004/gitdiagram](https://gitdiagram.com/)
+> ©️🖼️ Diagram Credits: https://gitdiagram.com/
 
 # Project Report
 https://github.com/GPA95/ESHOP/blob/main/IP%20PROJECT%202022-23.pdf
